@@ -1,0 +1,116 @@
+.Mtop{
+    h1{
+        font-size: xx-large;
+        font-weight: 400;
+}
+   background-color: #778DA9;
+   border-style: initial;
+   margin-bottom: 0cm;
+   margin-top: 0cm;
+   padding-bottom: 0cm;
+#Search{
+    margin-right: 0cm;
+    float: right;
+}
+}
+.Button{
+    display: flex;
+    gap: 10px;
+:hover{
+    background-color: aliceblue;
+    color: darkblue;
+}
+}
+.Button button{
+    padding: 0cm;
+    background-color: darkblue;
+    color: aliceblue;
+    border-color: darkblue;
+    width: auto;
+    display: inline-block;
+    margin: 0px;
+}
+.Type:hover{
+    background-color: aliceblue;
+    color: darkblue;
+    border-color: darkblue;
+}
+
+.Type a{
+    display: block;
+    text-decoration: none;
+    padding: 10px 15px;
+    color: aliceblue;
+}
+.Type .content{
+    display: none;
+    background-color: rgb(11, 11, 234);
+    position: absolute;
+}
+.Type:hover .content{
+    display: block;
+    background-color:blue;
+    color: aliceblue;
+}
+.Category a{
+    display: block;
+    text-decoration: none;
+    padding: 10px 15px;
+    color: aliceblue;
+}
+.Category .content{
+    display: none;
+    background-color: rgb(11, 11, 234);
+    position: absolute;
+}
+.Category:hover .content{
+    display: block;
+}
+
+.Category:hover{
+    background-color: aliceblue;
+    color: darkblue;
+    border-color: darkblue;
+}
+
+.Genre a{
+    display: block;
+    text-decoration: none;
+    padding: 10px 15px;
+    color: aliceblue;
+}
+.Genre .content{
+    display: none;
+    background-color: rgb(11, 11, 234);
+    position: absolute;
+}
+.Genre:hover .content{
+    display: block;
+}
+
+.Genre:hover{
+    background-color: aliceblue;
+    color: darkblue;
+    border-color: darkblue;
+}
+
+.Mbody{
+    margin-bottom: 0cm;
+    margin-top: 10cm;
+    border-style: double;
+    border-color: darkblue;
+    background-color: darkblue;
+    h1{
+        color: aliceblue;
+        font-size: xx-large;
+        font-weight: bolder;
+    }
+    p{
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+}
+}
+Body{
+    background-color: grey;
+}

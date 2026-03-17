@@ -1,0 +1,19 @@
+.Heading{
+    background-color:gray;
+    color: #0D1B2A;
+}
+.Button{
+ button{
+    padding: 1cm;
+    background-color: darkblue;
+    color: aliceblue;
+    border-color: darkblue;
+    border-radius: 0.5cm;
+}
+:hover{
+    background-color: aliceblue;
+    color: darkblue;
+    border-color: darkblue;
+    
+}
+}
