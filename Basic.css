@@ -2,7 +2,10 @@
     background-color:gray;
     color: #0D1B2A;
 }
-.Button{
+h1{
+    text-decoration: none;
+}
+.Btn{
  button{
     padding: 1cm;
     background-color: darkblue;
